@@ -1,0 +1,116 @@
+Create a completely new website from scratch for a funny burger invitation.
+
+IMPORTANT CONTEXT:
+Ryan is inviting me and Reham to eat burgers.
+The website should be a playful confirmation page for Ryan's invitation.
+
+The invitation is FROM RYAN
+and the guests are:
+- Me
+- Reham
+
+Do NOT write that I and Reham are inviting Ryan.
+Do NOT make Ryan the guest.
+Ryan is the person inviting us.
+
+The main idea is:
+"ريان عازمنا برقر 🍔❤️"
+
+Use natural Sudanese Arabic.
+
+PAGE:
+
+Main title:
+"يا ريان 😍🍔"
+
+Under the title:
+
+"سمعنا إنك عازمنا برقر 😂❤️"
+
+Then:
+
+"أنا وريهام جاهزين للعزومة،
+بس عايزين نتأكد إن الكلام رسمي وما في تراجع 😂🍔"
+
+Add a funny line:
+
+"البرقر عليك... والضحك علينا 😎😂"
+
+MAIN BUTTON:
+
+Create one big beautiful button:
+
+"أكيد حا أعزمكم ❤️"
+
+This button means Ryan confirms that he is inviting us.
+
+Do NOT create:
+- No button
+- رفض
+- Cancel
+- Skip
+- لا
+- أي زر رفض
+
+Add a second optional interaction where we can choose what we want with the burger:
+
+🍔 برقر
+🍟 برقر وبطاطس
+🥤 مشروب
+🍰 حاجة حلوة
+
+Make this optional and fun.
+
+When the main button is clicked, show:
+
+"خلاص اتفقنا 😂❤️"
+
+Then:
+
+"ريان أكّد العزومة رسمي 😎🍔"
+
+Then:
+
+"أنا وريهام حنجهز نفسنا...
+والبرقر عليك يا ريان 😂❤️"
+
+Show falling hearts, burgers, emojis and confetti.
+
+Add funny animations to the main button:
+- bounce
+- shake
+- pulse
+- playful movement
+- touch animation for iPhone
+
+DESIGN:
+- Cute
+- Funny
+- Modern
+- Romantic/friendly
+- Burger themed
+- Beautiful background
+- Animated hearts
+- Rounded card
+- Mobile-first
+- iPhone friendly
+- No horizontal scrolling
+
+Use suitable burger images.
+
+Use emojis:
+🍔 🍟 🥤 ❤️ 😂 😍 😎 ✨ 🎉
+
+IMPORTANT:
+Do not use the word "خت" anywhere.
+
+TECHNICAL:
+Create the complete website from scratch.
+Create index.html.
+CSS and JavaScript can be inside index.html.
+Make it work perfectly on GitHub Pages.
+Make sure there are no HTML, CSS or JavaScript errors.
+
+Actually create the website.
+Do not just explain.
+Save the completed index.html to the repository.
